@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		357418F82C0E2772006E6E55 /* BarCode-Scanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BarCode-Scanner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		357418F82C0E2772006E6E55 /* Barcode-Scanner-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Barcode-Scanner-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		357418FB2C0E2772006E6E55 /* BarCode_ScannerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarCode_ScannerApp.swift; sourceTree = "<group>"; };
 		357418FD2C0E2772006E6E55 /* BarcodeScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarcodeScannerView.swift; sourceTree = "<group>"; };
 		357418FF2C0E2774006E6E55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -77,7 +77,7 @@
 		357418EF2C0E2772006E6E55 = {
 			isa = PBXGroup;
 			children = (
-				357418FA2C0E2772006E6E55 /* BarCode-Scanner */,
+				357418FA2C0E2772006E6E55 /* Barcode-Scanner-SwiftUI */,
 				357418F92C0E2772006E6E55 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,12 +85,12 @@
 		357418F92C0E2772006E6E55 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				357418F82C0E2772006E6E55 /* BarCode-Scanner.app */,
+				357418F82C0E2772006E6E55 /* Barcode-Scanner-SwiftUI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		357418FA2C0E2772006E6E55 /* BarCode-Scanner */ = {
+		357418FA2C0E2772006E6E55 /* Barcode-Scanner-SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
 				35401B542C0ED88800C6E6CD /* Utilities */,
@@ -100,7 +100,7 @@
 				357418FF2C0E2774006E6E55 /* Assets.xcassets */,
 				357419012C0E2774006E6E55 /* Preview Content */,
 			);
-			path = "BarCode-Scanner";
+			path = "Barcode-Scanner-SwiftUI";
 			sourceTree = "<group>";
 		};
 		357419012C0E2774006E6E55 /* Preview Content */ = {
@@ -114,9 +114,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		357418F72C0E2772006E6E55 /* BarCode-Scanner */ = {
+		357418F72C0E2772006E6E55 /* Barcode-Scanner-SwiftUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 357419062C0E2774006E6E55 /* Build configuration list for PBXNativeTarget "BarCode-Scanner" */;
+			buildConfigurationList = 357419062C0E2774006E6E55 /* Build configuration list for PBXNativeTarget "Barcode-Scanner-SwiftUI" */;
 			buildPhases = (
 				357418F42C0E2772006E6E55 /* Sources */,
 				357418F52C0E2772006E6E55 /* Frameworks */,
@@ -126,9 +126,9 @@
 			);
 			dependencies = (
 			);
-			name = "BarCode-Scanner";
+			name = "Barcode-Scanner-SwiftUI";
 			productName = "BarCode-Scanner";
-			productReference = 357418F82C0E2772006E6E55 /* BarCode-Scanner.app */;
+			productReference = 357418F82C0E2772006E6E55 /* Barcode-Scanner-SwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -146,7 +146,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 357418F32C0E2772006E6E55 /* Build configuration list for PBXProject "BarCode-Scanner" */;
+			buildConfigurationList = 357418F32C0E2772006E6E55 /* Build configuration list for PBXProject "Barcode-Scanner-SwiftUI" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -159,7 +159,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				357418F72C0E2772006E6E55 /* BarCode-Scanner */,
+				357418F72C0E2772006E6E55 /* Barcode-Scanner-SwiftUI */,
 			);
 		};
 /* End PBXProject section */
@@ -319,7 +319,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"BarCode-Scanner/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Barcode-Scanner-SwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = F2P4X5Y727;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -349,7 +349,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"BarCode-Scanner/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Barcode-Scanner-SwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = F2P4X5Y727;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -375,7 +375,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		357418F32C0E2772006E6E55 /* Build configuration list for PBXProject "BarCode-Scanner" */ = {
+		357418F32C0E2772006E6E55 /* Build configuration list for PBXProject "Barcode-Scanner-SwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				357419042C0E2774006E6E55 /* Debug */,
@@ -384,7 +384,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		357419062C0E2774006E6E55 /* Build configuration list for PBXNativeTarget "BarCode-Scanner" */ = {
+		357419062C0E2774006E6E55 /* Build configuration list for PBXNativeTarget "Barcode-Scanner-SwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				357419072C0E2774006E6E55 /* Debug */,

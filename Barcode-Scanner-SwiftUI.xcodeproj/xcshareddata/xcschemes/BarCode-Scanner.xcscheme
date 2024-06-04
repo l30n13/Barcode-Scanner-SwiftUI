@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "357418F72C0E2772006E6E55"
-               BuildableName = "BarCode-Scanner.app"
-               BlueprintName = "BarCode-Scanner"
-               ReferencedContainer = "container:BarCode-Scanner.xcodeproj">
+               BuildableName = "Barcode-Scanner-SwiftUI.app"
+               BlueprintName = "Barcode-Scanner-SwiftUI"
+               ReferencedContainer = "container:Barcode-Scanner-SwiftUI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "357418F72C0E2772006E6E55"
-            BuildableName = "BarCode-Scanner.app"
-            BlueprintName = "BarCode-Scanner"
-            ReferencedContainer = "container:BarCode-Scanner.xcodeproj">
+            BuildableName = "Barcode-Scanner-SwiftUI.app"
+            BlueprintName = "Barcode-Scanner-SwiftUI"
+            ReferencedContainer = "container:Barcode-Scanner-SwiftUI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -69,9 +69,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "357418F72C0E2772006E6E55"
-            BuildableName = "BarCode-Scanner.app"
-            BlueprintName = "BarCode-Scanner"
-            ReferencedContainer = "container:BarCode-Scanner.xcodeproj">
+            BuildableName = "Barcode-Scanner-SwiftUI.app"
+            BlueprintName = "Barcode-Scanner-SwiftUI"
+            ReferencedContainer = "container:Barcode-Scanner-SwiftUI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
